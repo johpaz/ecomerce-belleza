@@ -54,7 +54,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-black/40" />
         <div className="relative mx-auto flex h-full max-w-7xl flex-col items-center justify-center px-4 text-center text-white sm:px-6 lg:px-8">
           <h1 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl">
-            Discover Your True Beauty
+            Disfruta Tu Belleza
           </h1>
           <p className="mt-6 max-w-lg text-xl text-gray-200">
             Experience luxury beauty treatments and premium products at Luxe Beauty
